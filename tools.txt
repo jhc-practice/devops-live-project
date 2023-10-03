@@ -1,0 +1,6 @@
+elastic kubernetes service
+mangodb
+flask
+reactjs
+jenkins
+docker
